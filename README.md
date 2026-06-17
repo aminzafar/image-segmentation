@@ -5,12 +5,12 @@ Upload any image and click on any object to instantly highlight it with a segmen
 no labels, no training, no predefined categories needed.
 
 ---
-
+<!-- 
 ## Demo
 
 ![App demo](assets/demo.gif)
 
----
+--- -->
 
 ## Features
 
