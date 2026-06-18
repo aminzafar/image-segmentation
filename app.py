@@ -64,7 +64,7 @@ with gr.Blocks(title="Zero-Shot Image Segmentation", theme=gr.themes.Soft()) as 
     gr.Markdown("# Zero-Shot Image Segmentation")
     gr.Markdown(
         "Upload any image and **click on any object** to segment it instantly. "
-        "Powered by Meta's Segment Anything Model (SAM) — no labels, no training needed."
+        "Powered by Meta's Segment Anything Model (SAM)."
     )
 
     with gr.Row():
