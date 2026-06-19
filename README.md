@@ -1,8 +1,7 @@
 # Zero-Shot Image Segmentation
 
 A click-to-segment image app powered by Meta's [Segment Anything Model (SAM)](https://huggingface.co/facebook/sam-vit-base).
-Upload any image and click on any object to instantly highlight it with a segmentation mask —
-no labels, no training, no predefined categories needed.
+Upload any image and click on any object to instantly highlight it with a segmentation mask with no labels, no training, no predefined categories needed.
 
 ---
 <!-- 
